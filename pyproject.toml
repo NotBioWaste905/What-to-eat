@@ -17,6 +17,7 @@ langchain = {extras = ["openai"], version = "^0.3.20"}
 levenshtein = "^0.27.1"
 kagglehub = "^0.3.10"
 hub = "^3.0.1"
+matplotlib = "^3.10.1"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.2.0"
